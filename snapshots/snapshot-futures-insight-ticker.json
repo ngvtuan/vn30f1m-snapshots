@@ -6,7 +6,7 @@
     "firstTradingDay": "22/08/2025",
     "lastSettlementDate": "17/10/2025",
     "lastTradingDay": "16/10/2025",
-    "createAt": "1759395793534"
+    "createAt": "1759482249523"
   },
   {
     "ticker": "41I1FB000",
@@ -15,7 +15,7 @@
     "firstTradingDay": "19/09/2025",
     "lastSettlementDate": "21/11/2025",
     "lastTradingDay": "20/11/2025",
-    "createAt": "1759395793534"
+    "createAt": "1759482249523"
   },
   {
     "ticker": "41I1G3000",
@@ -24,7 +24,7 @@
     "firstTradingDay": "18/07/2025",
     "lastSettlementDate": "20/03/2026",
     "lastTradingDay": "19/03/2026",
-    "createAt": "1759395793534"
+    "createAt": "1759482249522"
   },
   {
     "ticker": "VN30F2512",
@@ -33,6 +33,6 @@
     "firstTradingDay": "18/04/2025",
     "lastSettlementDate": "19/12/2025",
     "lastTradingDay": "18/12/2025",
-    "createAt": "1759395793534"
+    "createAt": "1759482249523"
   }
 ]
